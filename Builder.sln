@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{646E9C8D-8389-4310-B879-095634E21396}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{CE98D8AA-9BEB-4CB8-A80F-B4FA45A56451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{646E9C8D-8389-4310-B879-095634E21396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646E9C8D-8389-4310-B879-095634E21396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646E9C8D-8389-4310-B879-095634E21396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE98D8AA-9BEB-4CB8-A80F-B4FA45A56451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE98D8AA-9BEB-4CB8-A80F-B4FA45A56451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE98D8AA-9BEB-4CB8-A80F-B4FA45A56451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE98D8AA-9BEB-4CB8-A80F-B4FA45A56451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
